@@ -1,0 +1,22 @@
+ How to install a Chrome extension from a ZIP file
+Important: The browser cannot read the .zip archive directly. You must extract it first.
+
+1. Extract the archive:
+Right-click the .zip file and select "Extract All" (or use a file archiver). You should now see a regular folder containing the extension files.
+
+2. Open the Extensions page:
+Launch Chrome.
+In the address bar, type: chrome://extensions/ and press Enter.
+(Alternatively, go through the menu: Three dots → Extensions → Manage extensions.)
+
+3. Enable Developer mode:
+In the top-right corner of the page, find the "Developer mode" toggle and turn it on.
+
+4. Load the extension:
+A button labeled "Load unpacked" will appear on the left. Click it.
+In the file dialog that opens, select the folder you extracted in Step 1 (select the folder itself, not the files inside).
+
+✅ Done!
+The extension will appear in the list and start working immediately.
+
+💡 Tip: Do not delete or move the extension folder on your computer after installation—otherwise, the extension will stop working in the browser.
