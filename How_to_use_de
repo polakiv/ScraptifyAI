@@ -1,0 +1,23 @@
+
+📝 So installieren Sie eine Chrome-Erweiterung aus einer ZIP-Datei
+Wichtig: Der Browser kann das .zip-Archiv nicht direkt lesen. Sie müssen es zuerst entpacken.
+
+1. Entpacken Sie das Archiv:
+Klicken Sie mit der rechten Maustaste auf die .zip-Datei und wählen Sie „Alles extrahieren“ (oder verwenden Sie ein Archivprogramm). Es erscheint ein normaler Ordner mit den Erweiterungsdateien.
+
+2. Öffnen Sie die Erweiterungsseite:
+Starten Sie Chrome.
+Geben Sie in die Adressleiste ein: chrome://extensions/ und drücken Sie Enter.
+(Alternativ über das Menü: Drei Punkte → Erweiterungen → Erweiterungen verwalten.)
+
+3. Aktivieren Sie den Entwicklermodus:
+Oben rechts auf der Seite finden Sie einen Schalter namens „Entwicklermodus“. Aktivieren Sie ihn.
+
+4. Laden Sie die Erweiterung:
+Links erscheint eine Schaltfläche mit der Aufschrift „Entpackte Erweiterung laden“. Klicken Sie darauf.
+Wählen Sie im folgenden Fenster den Ordner aus, den Sie in Schritt 1 entpackt haben (wählen Sie den Ordner selbst, nicht die darin enthaltenen Dateien).
+
+✅ Fertig!
+Die Erweiterung wird in der Liste angezeigt und funktioniert sofort.
+
+💡 Tipp: Löschen oder verschieben Sie den Erweiterungsordner auf Ihrem Computer nach der Installation nicht – sonst funktioniert die Erweiterung im Browser nicht mehr.
